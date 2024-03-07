@@ -38,9 +38,6 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 
   - https://l1nk.dev/HackTheBox-Progresso
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-</div>
-
 #
 <!-- EDUCATION -->
 

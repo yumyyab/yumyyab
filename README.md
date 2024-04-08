@@ -36,7 +36,10 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 
 <div align:left>
 
-  - https://l1nk.dev/HackTheBox-Progresso
+![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+[--> Transcript HackTheBox <--](https://drive.google.com/file/d/1pVRb5W9wmRqgf903Cfh9VOv6g4BgYRz_/view?usp=sharing)
+  
 
 #
 <!-- EDUCATION -->
@@ -49,7 +52,7 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 
 <img align:center src="assets/graduacao.png" height="19" alt="graduacao-icon"/>&thinsp; **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** 
 
-<img align:center src="assets/calendario.png" height="19" alt="calendario-icon"/>&thinsp; <i>**Novembro. 2023</i> - <i>Ainda cursando...**</i>
+<img align:center src="assets/calendario.png" height="19" alt="calendario-icon"/>&thinsp; <i>**Agosto. 2023</i> - <i>Ainda cursando...**</i>
 
 #
 <!-- SKILLS -->
@@ -58,6 +61,7 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 <div align="left">
   
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,7 +72,7 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 </div>
 
 #
-<!-- FINAL -->
+<!-- END -->
 
 <div align="center">
   <p align="center"><b>Contador de Visitas</b></p>  

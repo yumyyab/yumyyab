@@ -15,7 +15,7 @@
 <div align:left>
 
 **• 
-Tenho 18 anos e, no momento, estou cursando o segundo período da faculdade.
+Tenho 19 anos e, no momento, estou cursando o segundo período da faculdade.
 Análise e Desenvolvimento de Sistemas na [**Cruzeiro do Sul Virtual**](https://www.cruzeirodosulvirtual.com.br/) e também levo como aprendizado \
 Cursos complementares. Decidida em iniciar na carreira de Analista SOC como Junior!**
   
@@ -38,7 +38,7 @@ Além da área, dar oportunidade de explorar e aprender mais dentro do ramo.**
 
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[--> Transcript HackTheBox <--](https://drive.google.com/file/d/1pVRb5W9wmRqgf903Cfh9VOv6g4BgYRz_/view?usp=sharing)
+[--> Transcript HackTheBox <--](https://drive.google.com/file/d/1pVRb5W9wmRqgf903Cfh9VOv6g4BgYRz_/view)
   
 
 #
